@@ -30,6 +30,7 @@ if	(spawn){
 }
 if(test){
 }
+coins = 10;
 
 
 
